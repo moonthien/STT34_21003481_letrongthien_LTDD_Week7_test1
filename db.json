@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "password1",
+      "name": "User 1"
+    },
+    {
+      "id": "2",
+      "username": "truongmai123",
+      "password": "123",
+      "name": "Truong Mai"
+    },
+    {
+      "id": "3",
+      "name": "Truong Vip Pro",
+      "username": "truongpro",
+      "password": "123"
+    },
+    {
+      "id": "4",
+      "name": "Đại Lộc",
+      "username": "dailoc007",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "name": "Thien Trong",
+      "username": "moonthien",
+      "password": "123"
+    }
+  ],
+  "notes": [
+    {
+      "id": "1",
+      "content": "Learn JavaScript basic"
+    },
+    {
+      "id": "2",
+      "content": "Learn HTML Advance"
+    },
+    {
+      "id": "3",
+      "content": "Medical App UI"
+    },
+    {
+      "id": "5",
+      "content": "Learn JAVA"
+    },
+    {
+      "id": "6",
+      "content": "Learn React "
+    }
+  ]
+}
